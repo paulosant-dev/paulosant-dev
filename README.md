@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/Alves054">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alves054&bg_color=0d111700&color=8b5cf6&line=8b5cf6&point=a78bfa&area=true&hide_border=true" alt="Gráfico de atividade do Alves054" />
+    <img src="https://ghchart.rshah.org/8b5cf6/Alves054" alt="Gráfico de contribuições do Alves054" width="100%" />
   </a>
 </div>
 
