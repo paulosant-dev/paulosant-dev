@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=A78BFA&center=true&vCenter=true&width=1000&lines=Alves054+-+Desenvolvedor;Ol%C3%A1!+Eu+sou+o+Paulo+Henrique;15+anos+e+viciado+em+c%C3%B3digo;Sites%2C+apps+e+muito+mais;Transformando+ideias+em+projetos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=A78BFA&center=true&vCenter=true&width=1000&lines=Alves054+-+Desenvolvedor;Ol%C3%A1!+Eu+sou+o+Paulo+Henrique;Apaixonado+por+c%C3%B3digo;Sites%2C+apps+e+muito+mais;Transformando+ideias+em+projetos" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou o **Paulo Henrique**, tenho **15 anos** e moro na **Mooca, São Paulo**. Já vivo mergulhado no mundo da programação, construindo sites, aplicativos e tudo que me desafie a transformar ideias em realidade.
+Sou o **Paulo Henrique** e moro na **Mooca, São Paulo**. Já vivo mergulhado no mundo da programação, construindo sites, aplicativos e tudo que me desafie a transformar ideias em realidade.
 
 - 💻 Criando interfaces com **HTML**, **CSS**, **JavaScript** e **React**
 - ⚙️ Desenvolvendo com **TypeScript** e **Python**
