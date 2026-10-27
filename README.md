@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou o **Paulo Henrique** e moro na **Mooca, São Paulo**. Já vivo mergulhado no mundo da programação, construindo sites, aplicativos e tudo que me desafie a transformar ideias em realidade.
+Sou o **Paulo Henrique**, desenvolvedor **Full-Stack**. Já vivo mergulhado no mundo da programação, construindo sites, aplicativos e tudo que me desafie a transformar ideias em realidade.
 
 - 💻 Criando interfaces com **HTML**, **CSS**, **JavaScript** e **React**
 - ⚙️ Desenvolvendo com **TypeScript** e **Python**
@@ -51,6 +51,6 @@ Estou sempre construindo e experimentando. Alguns dos meus projetos:
 ## 📬 Contato
 
 - 🐙 **GitHub:** [@paulosant-dev](https://github.com/paulosant-dev)
-- 📍 **Local:** Mooca, São Paulo - Brasil
+- 💼 **LinkedIn:** [paulohenrique-dev](https://www.linkedin.com/in/paulohenrique-dev/)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=120&section=footer"/>
